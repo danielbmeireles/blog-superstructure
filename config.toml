@@ -1,0 +1,4 @@
+baseURL = 'https://www.meireles.dev'
+languageCode = 'en-us'
+title = 'Livin La Infra Loca'
+theme = "terminal"
