@@ -1,4 +1,10 @@
 baseURL = 'https://www.meireles.dev'
 languageCode = 'en-us'
 title = 'Livin La Infra Loca'
+paginate = 5
 theme = "terminal"
+
+[params]
+  themeColor = "green"
+  showMenuItems = 2
+  autoCover = true
